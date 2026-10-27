@@ -1,0 +1,134 @@
+{
+  "name": "Living Life With Insulin",
+  "tagline": "Go places. Find your people.",
+  "whatsapp": "https://wa.me/919999707054?text=I%20would%20like%20to%20know%20more.",
+  "phone": "+91 99997 07054",
+  "founder": {
+    "name": "Anurati",
+    "role": "Founder & host",
+    "bio": "Anurati brings people together through Living Life With Insulin. Alongside the organising team, she helps turn the idea of travelling together into a shared experience, with connection at its heart.",
+    "portrait": null
+  },
+  "upcomingTrips": [],
+  "testimonials": [],
+  "instagram": null,
+  "photoChapters": [
+    {
+      "slug": "by-the-water",
+      "name": "By the water",
+      "category": "water",
+      "cover": "beach",
+      "eyebrow": "Coastal moments",
+      "description": "Salt in the air. Friends in the frame. A few moments from the LLWI photo album.",
+      "photos": [
+        "beach",
+        "boat"
+      ],
+      "destination": null,
+      "date": null
+    },
+    {
+      "slug": "into-the-green",
+      "name": "Into the green",
+      "category": "outdoors",
+      "cover": "mountains",
+      "eyebrow": "A little adventure",
+      "description": "Riverside pauses, forest paths and a whole lot of fresh air. Explore our outdoor photo album.",
+      "photos": [
+        "mountains",
+        "safari",
+        "waterfall"
+      ],
+      "destination": null,
+      "date": null
+    },
+    {
+      "slug": "around-the-table",
+      "name": "Around the table",
+      "category": "together",
+      "cover": "dinner",
+      "eyebrow": "Good company",
+      "description": "Shared tables, familiar smiles and room for one more. These are the moments between the adventures.",
+      "photos": [
+        "dinner",
+        "evening",
+        "stairs",
+        "meetup",
+        "celebrate",
+        "colour",
+        "night",
+        "gathering"
+      ],
+      "destination": null,
+      "date": null
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I join if I’ve never travelled with LLWI?",
+      "a": "Absolutely. You do not need to have joined an LLWI trip before. Start by saying hello to Anurati, ask whatever is on your mind, and find out whether an upcoming experience feels right for you.",
+      "group": "Your first trip"
+    },
+    {
+      "q": "Can I come alone?",
+      "a": "Yes. You do not need to bring a friend or know someone in the group beforehand. Ask Anurati how introductions and group arrangements will work for the trip you are considering.",
+      "group": "Your first trip"
+    },
+    {
+      "q": "What is the usual age group?",
+      "a": "LLWI is primarily designed for young adults, around 18–30. The people and age range can vary by experience, so check the details of the particular trip with Anurati.",
+      "group": "Your first trip"
+    },
+    {
+      "q": "How big are the groups?",
+      "a": "Group size depends on the trip. Anurati can share the planned group size and arrangements for a specific experience before you decide to join.",
+      "group": "The experience"
+    },
+    {
+      "q": "Who organises the trips?",
+      "a": "Anurati is the founder and host of Living Life With Insulin. She and the organising team bring the trips and community experiences together.",
+      "group": "The experience"
+    },
+    {
+      "q": "How do I get to know the other travellers?",
+      "a": "You can ask Anurati about introductions and any pre-trip conversations for the experience you are interested in. There is no need to arrive already knowing everyone.",
+      "group": "Your first trip"
+    },
+    {
+      "q": "How are trips planned around T1D-related needs?",
+      "a": "Talk to Anurati about the specific itinerary, meal timings, activity demands, storage arrangements and support available. These details should be confirmed for each trip. Community support does not replace your personal diabetes management or medical care.",
+      "group": "Planning & practicalities"
+    },
+    {
+      "q": "What should I bring?",
+      "a": "Ask for the trip-specific packing information. Plan your personal medication, supplies and individual travel needs with your own care team. The right preparation depends on you and the journey.",
+      "group": "Planning & practicalities"
+    },
+    {
+      "q": "How do meals and activities work?",
+      "a": "Meal arrangements, schedules and activity options depend on the itinerary. Share any questions with Anurati and confirm what can be accommodated before booking.",
+      "group": "Planning & practicalities"
+    },
+    {
+      "q": "How are medical emergencies handled?",
+      "a": "Emergency arrangements and any medical support must be confirmed for the specific trip. Do not assume that a clinician, emergency transport or insurance is included. Ask Anurati for the arrangements before deciding to join.",
+      "group": "Planning & practicalities"
+    },
+    {
+      "q": "What is included in the price?",
+      "a": "Inclusions, exclusions, accommodation, transport and payment terms vary by trip. Request the full written details from Anurati before making a payment.",
+      "group": "Booking & enquiries"
+    },
+    {
+      "q": "What happens after I enquire?",
+      "a": "Your message goes to Anurati on WhatsApp. You can ask about the trips, the community and anything you want to understand before deciding. Saying hello does not commit you to booking.",
+      "group": "Booking & enquiries"
+    },
+    {
+      "q": "Are there cancellation or refund policies?",
+      "a": "Ask Anurati for the cancellation, refund and any transfer terms for your specific trip before booking. No universal cancellation or refund policy is listed on this site.",
+      "group": "Booking & enquiries"
+    }
+  ],
+  "siteUrl": ""
+}

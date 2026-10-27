@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "a-first-hello",
+    "title": "The first step can be a hello.",
+    "category": "First-time adventures",
+    "photo": "boat",
+    "intro": "You don\u2019t need to have the whole journey figured out to start a conversation.",
+    "body": [
+      [
+        "Curiosity is a good starting point.",
+        "Maybe you know exactly where you want to go. Maybe you\u2019re still wondering what travelling with a new group would feel like. Both are good places to begin. A first message can be as simple as asking what\u2019s coming up."
+      ],
+      [
+        "Ask the ordinary questions.",
+        "Who is organising the trip? How long is it? What will the days look like? What is included? Practical details make an unfamiliar experience easier to picture. There is room to ask about your own needs, too."
+      ],
+      [
+        "Take your time deciding.",
+        "An enquiry is a conversation, not a commitment. Get to know the plans and the people behind them. Think about what you want from the experience. You get to decide what feels right for you."
+      ]
+    ]
+  },
+  {
+    "slug": "the-in-between",
+    "title": "The moments between the plans.",
+    "category": "Friendship & community",
+    "photo": "stairs",
+    "intro": "There\u2019s the itinerary. And then there\u2019s everything you can\u2019t put on one.",
+    "body": [
+      [
+        "Leave a little room.",
+        "A shared table. A conversation on the steps. Someone laughing just as the photograph is taken. The small moments of a journey can matter as much as the places you set out to see."
+      ],
+      [
+        "Connection has its own pace.",
+        "You don\u2019t have to be the loudest person in the group, or have a story ready for every conversation. Sometimes connection begins with listening. Sometimes it begins with a shared view."
+      ],
+      [
+        "Let the trip be yours.",
+        "Adventure can mean trying something new. It can also mean a change of pace, time outside your usual routine, or meeting someone whose outlook stays with you. There is more than one way to make a memory."
+      ]
+    ]
+  },
+  {
+    "slug": "what-we-take-home",
+    "title": "What we take home, beyond photographs.",
+    "category": "Reflections & discoveries",
+    "photo": "mountains",
+    "intro": "A fresh perspective, a little pride, and perhaps the beginning of a friendship.",
+    "body": [
+      [
+        "More than a camera roll.",
+        "Photographs keep a moment visible. The feeling is harder to frame: the satisfaction of trying something unfamiliar, a conversation you keep thinking about, or simply the pleasure of having been somewhere new."
+      ],
+      [
+        "Your own kind of accomplishment.",
+        "It doesn\u2019t have to be a big milestone. Making the journey, finding your rhythm in a new group, or giving yourself time to enjoy a different place can be enough."
+      ],
+      [
+        "A beginning, not a checklist.",
+        "There is no single thing you have to feel at the end of a trip. Your story is your own. Whatever you take home, we hope there is room in it for a little more possibility."
+      ]
+    ]
+  }
+]

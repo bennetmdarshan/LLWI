@@ -1,0 +1,23 @@
+{
+  "slug": null,
+  "name": null,
+  "description": null,
+  "destination": null,
+  "month": null,
+  "experience": null,
+  "dates": null,
+  "duration": null,
+  "price": null,
+  "status": null,
+  "cover": null,
+  "itinerary": null,
+  "included": null,
+  "excluded": null,
+  "accommodation": null,
+  "transport": null,
+  "payment": null,
+  "t1dPlanning": null,
+  "emergencyArrangements": null,
+  "cancellation": null,
+  "photos": null
+}
